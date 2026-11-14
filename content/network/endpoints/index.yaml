@@ -13,6 +13,8 @@ description: |
 
   **It is recommended to select one of the real-time-monitored ETC RPC endpoints over at [ChainList.org](https://chainlist.org/chain/61).**
 
+  Providers that sell Ethereum Classic API access are listed, with plan details and links to their documentation, in the open-source [Chain.Love directory](https://ethereum-classic.chain.love/toolbox/apis). Confirm current ETC support and pricing with the provider before subscribing.
+
   Live latency benchmarks for these endpoints (p50/p90/p99, 3 regions, updated every 60 s): [OpenChainBench Ethereum Classic RPC](https://openchainbench.com/benchmarks/ethereum-classic-rpc)
 __contributors:
   - arvicco
